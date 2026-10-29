@@ -1,0 +1,6 @@
+{
+  "name": "Multithreaded Task Manager – OS Mini Project",
+  "description": "Interactive Operating Systems laboratory demonstrating CPU scheduling algorithms, real Web Worker multithreading pool, Banker's deadlock safety, and memory allocation strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
